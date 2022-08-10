@@ -1,0 +1,1 @@
+{"Loadout":"empty","HideUI":false,"HideTips":false,"FirstTime":true,"SkinnyGod":false,"Configs":[],"ModChecks":true}

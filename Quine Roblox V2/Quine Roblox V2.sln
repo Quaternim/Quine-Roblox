@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quine Roblox V2", "Quine Roblox V2\Quine Roblox V2.csproj", "{158B3975-3607-451B-873E-A9276DDB2C66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{158B3975-3607-451B-873E-A9276DDB2C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158B3975-3607-451B-873E-A9276DDB2C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158B3975-3607-451B-873E-A9276DDB2C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158B3975-3607-451B-873E-A9276DDB2C66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B9E9B79-0988-460C-81F8-09C8A339053B}
+	EndGlobalSection
+EndGlobal

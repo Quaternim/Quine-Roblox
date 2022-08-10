@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Quine Roblox\Quine Roblox\bin\Debug\Quine Roblox.exe.config
+C:\Users\User\source\repos\Quine Roblox\Quine Roblox\bin\Debug\Quine Roblox.exe
+C:\Users\User\source\repos\Quine Roblox\Quine Roblox\bin\Debug\Quine Roblox.pdb
+C:\Users\User\source\repos\Quine Roblox\Quine Roblox\bin\Debug\FastColoredTextBox.dll
+C:\Users\User\source\repos\Quine Roblox\Quine Roblox\bin\Debug\WeAreDevs_API.dll
+C:\Users\User\source\repos\Quine Roblox\Quine Roblox\obj\Debug\Quine_Roblox.Form1.resources
+C:\Users\User\source\repos\Quine Roblox\Quine Roblox\obj\Debug\Quine_Roblox.Properties.Resources.resources
+C:\Users\User\source\repos\Quine Roblox\Quine Roblox\obj\Debug\Quine Roblox.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Quine Roblox\Quine Roblox\obj\Debug\Quine Roblox.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Quine Roblox\Quine Roblox\obj\Debug\Quine Roblox.csproj.CopyComplete
+C:\Users\User\source\repos\Quine Roblox\Quine Roblox\obj\Debug\Quine Roblox.exe
+C:\Users\User\source\repos\Quine Roblox\Quine Roblox\obj\Debug\Quine Roblox.pdb
+C:\Users\User\source\repos\Quine Roblox\Quine Roblox\obj\Debug\Quine_Roblox.ScriptHub.resources
